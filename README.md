@@ -2,7 +2,7 @@
 bannanas
 cheesse
 
-Version TAG 2
+Version TAG 3
 
 Amiga 1000
 
@@ -36,30 +36,7 @@ cloudflare-template.sh -help`
 - -rsleep=X , this will set a random legth time sleep timer for the script
   
 - <-details><-summary>-purge=x , To purge settings (operates using bitwise values)<-/summary>
-  <p>  
-    
-  | Value | Option        |  Purged Settings                                                                                                          |
-  |-------|---------------|---------------------------------------------------------------------------------------------------------------------------|
-  | 1     | Cloudflare    | auth_email, auth_method=token, auth_key, zone_identifier, auth_ttl=3600, auth_proxy=true                                  |
-  | 2     | DNS           | ip_maxage=60, ip_timestamp=0, ip                                                                                          |
-  | 4     | Report        | report_attribute=0, report_distribution=0, report_name                                                                    |
-  | 8     | Slack         | slackuri                                                                                                                  |
-  | 16    | eMail         | email_username, email_password, email_smtp, email_port, email_fromName, email_toName, email_fromAddress, email_toAddress  |
-  | 32    | File          | file_logPath                                                                                                              |
-  | 64    | Telegram      | telegram_token, telegram_chatID                                                                                           |
-  | 128   | Nextcloud     | nextcloud_domain, nextcloud_username, nextcloud_apppass, nextcloud_roomtoken                                              |
-   
-  _example:_ 
-    - Purge **Nothing** set it to **0**.
-    
-    - Purge **Cloudflare** only set it to **1**. 
-    
-    - Purge **Report** and **Slack** set it to **12** (4+8=12). 
-    
-    - Purge **Report**, **Slack**, **eMail**, **File**, **Telegram**, **Nextcloud** set it to **252** (4+8+16+32+64+128=252)
 
-  <-/details>
-  
 </details>
   
 <details><summary>[Cloudflare] -auth_email, -auth_method, -auth_key, -zone_identifier, -auth_ttl, -auth_proxy</summary>

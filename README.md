@@ -33,7 +33,7 @@ cloudflare-template.sh -help`
 
 - -rsleep=X , this will set a random legth time sleep timer for the script
   
-- <details><summary>-purge=x , To purge settings (operates using bitwise values)</summary>
+- <-details><-summary>-purge=x , To purge settings (operates using bitwise values)<-/summary>
   <p>  
     
   | Value | Option        |  Purged Settings                                                                                                          |
@@ -56,7 +56,7 @@ cloudflare-template.sh -help`
     
     - Purge **Report**, **Slack**, **eMail**, **File**, **Telegram**, **Nextcloud** set it to **252** (4+8+16+32+64+128=252)
 
-  </details>
+  <-/details>
   
 </details>
   

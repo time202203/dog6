@@ -2,7 +2,7 @@
 bannanas
 cheesse
 
-Version TAG 4
+Version TAG 5
 
 Amiga 1000
 
@@ -79,10 +79,10 @@ cloudflare-template.sh -help`
 </details>
 
 <details><summary>[Reports] -report_distribution, -report_attribute, -report_name</summary>
-<p>
+
   
 - <details><summary>-report_distribution=X , services that being used sending reports (operates using bitwise values)</summary>
-  <p>
+  
   
   | Value | Option        |
   |-------|---------------|
@@ -99,10 +99,10 @@ cloudflare-template.sh -help`
     - Distribution **Console** only set it to **4** (4=4). 
     
     - Distribution **eMail** and **Console** set it to **6** (2+4=6)
-  </p>
+  
   </details>
 - <details><summary>-report_attribute=X , control which atttibute is contained in the report (operates using bitwise values)</summary>
-  <p>  
+    
     
   | Value | Option        |
   |-------|---------------|
@@ -125,11 +125,11 @@ cloudflare-template.sh -help`
     
     - Attribute **Acount**, **Type**, **IP Address**, **Proxy**, **TTL**, **Time**, **Identifier**, **BootID** and **Status** set it to **511** (1+2+4+8+16+32+64+128+256=511)
   
-  </p>
+  
   </details>
   
 - -report_name=X , this is system identifier name being used, if it not be set it will hostname instead
-</p>
+
 </details>
 
 <details><summary>[Slack] -slackuri</summary>

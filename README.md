@@ -2,7 +2,7 @@
 bannanas
 cheesse
 
-Version TAG 3
+Version TAG 4
 
 Amiga 1000
 
@@ -15,6 +15,17 @@ hello there
 - this next test 2
 - well on test 3
 
+  
+  | Value | Option        |
+  |-------|---------------|
+  | 1     | Slack         |
+  | 2     | eMail         |
+  | 4     | Console       |
+  | 8     | File          |
+  | 16    | Telegram      |
+  | 32    | Nextcloud     |
+   
+   
 ## Commands
 `bash
 cloudflare-template.sh -help` 

@@ -2,7 +2,7 @@
 bannanas
 cheesse
 
-Version TAG 5
+Version TAG 6
 
 Amiga 1000
 
@@ -24,7 +24,12 @@ hello there
   | 8     | File          |
   | 16    | Telegram      |
   | 32    | Nextcloud     |
-   
+  
+<details><summary>ComputerSayz</summary>
+  
+  Hello there peoplez
+  
+  </details>
    
 ## Commands
 `bash

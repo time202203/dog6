@@ -13,7 +13,7 @@ chase
 hello there
 - this is a test 1
 - this next test 2
-- well on test 4
+- well on test 5
 
   
   | Value | Option        |
@@ -31,7 +31,7 @@ hello there
   
   </details>
   
-<details><summery>TestME</summery>
+<detailsl><summery>TestME</summery>
   <h1 id="header">Header</h1>
 
   <p>Para<em>graph</em></p>
@@ -39,7 +39,7 @@ hello there
   <blockquote>abc
     <p>quote</p>
   </blockquote>
-</details>
+</detailsl>
 
 ## Commands
 `bash

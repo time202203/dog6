@@ -13,7 +13,7 @@ chase
 hello there
 - this is a test 1
 - this next test 2
-- well on test 3
+- well on test 4
 
   
   | Value | Option        |
@@ -31,7 +31,7 @@ hello there
   
   </details>
   
-<details>
+<details><summery>TestME</summery>
   <h1 id="header">Header</h1>
 
   <p>Para<em>graph</em></p>

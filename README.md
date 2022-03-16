@@ -2,7 +2,7 @@
 bannanas
 cheesse
 
-Version TAG 7
+Version TAG 8
 
 Amiga 1000
 
@@ -39,6 +39,17 @@ hello there
   <blockquote>witin 1
     <p>quote witin 2</p>
   </blockquote>
+</details>
+
+
+<details><summary>Collapsed Block</summary>\n\n## Header\n</details>" | kramdown --parse-block-html
+<details>
+  <summary>
+    <p>Collapsed Block&lt;/summary&gt;</p>
+
+    <h2 id="header">Header</h2>
+    <p>&lt;/details&gt;</p>
+  </summary>
 </details>
 
 ## Commands

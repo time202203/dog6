@@ -40,7 +40,7 @@ test6
 <details>
 	<summary>Click to expand</summary>
 	<pre>
-		
+Playstation		
 	Long content here
 	</pre>
 

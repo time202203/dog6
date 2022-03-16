@@ -2,7 +2,7 @@
 bannanas
 cheesse
 
-Version TAG 13
+Version TAG 14
 
 Test1
 <details>computer
@@ -15,6 +15,23 @@ Test2
   </summary>
   test line1
   </details>
+  
+
+Test3
+<details>
+  
+This is an H1
+=============
+
+This is an H2
+-------------
+  test line1
+  </details>
+  
+Test4
+{% details Read more about that **thing**... %}
+  That **thing** is...
+{% enddetails %}
 
 Amiga 1000
 

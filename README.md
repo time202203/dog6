@@ -1,10 +1,7 @@
 # probable-octo-journey
 bannanas
 cheesse
-{% capture details %}
-DETAILS
-{% endcapture %}
-{% capture summary %}SUMMARY{% endcapture %}{% include details.html %}
+
 Version TAG 15
 
 Test1

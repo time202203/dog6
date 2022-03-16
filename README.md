@@ -46,6 +46,15 @@ test6
 
 </details>
 
+test7
+<details>
+	<summary>Click to expand</summary>
+	
+		
+	Long content here
+	
+
+</details>
 Amiga 1000
 
 atari st 1020

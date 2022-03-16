@@ -30,7 +30,17 @@ hello there
   Hello there peoplez
   
   </details>
-   
+  
+<details>
+  <h1 id="header">Header</h1>
+
+  <p>Para<em>graph</em></p>
+
+  <blockquote>
+    <p>quote</p>
+  </blockquote>
+</details>
+
 ## Commands
 `bash
 cloudflare-template.sh -help` 

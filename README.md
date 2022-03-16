@@ -2,7 +2,7 @@
 bannanas
 cheesse
 
-Version TAG 8
+Version TAG 9
 
 Amiga 1000
 
@@ -42,10 +42,23 @@ hello there
 </details>
 
 
-<details><summary>Collapsed Block</summary>\n\n## Header\n</details>" | kramdown --parse-block-html
+<details><summary>Collapsed Block1</summary>
+    
+  | Value | Option        |
+  |-------|---------------|
+  | 1     | Slack         |
+  | 2     | eMail         |
+  | 4     | Console       |
+  | 8     | File          |
+  | 16    | Telegram      |
+  | 32    | Nextcloud     |
+  
+  This is test line
+  \n\n## Header\n</details>
+  
 <details>
   <summary>
-    <p>Collapsed Block&lt;/summary&gt;</p>
+    <p>Collapsed Block2&lt;/summary&gt;</p>
 
     <h2 id="header">Header</h2>
     <p>&lt;/details&gt;</p>

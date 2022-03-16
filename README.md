@@ -49,8 +49,7 @@ Playstation
 test7
 <details>
 	<summary>Click to expand</summary>
-	
-		
+Playstation
 	Long content here
 	
 

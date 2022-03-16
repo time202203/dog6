@@ -36,6 +36,16 @@ Test5
 These are the **details** for this item.
 </details>
 
+test6
+<details>
+	<summary>Click to expand</summary>
+	<pre>
+		
+	Long content here
+	</pre>
+
+</details>
+
 Amiga 1000
 
 atari st 1020

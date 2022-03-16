@@ -33,6 +33,12 @@ Test4
   That **thing** is...
 {% enddetails %}
 
+Test5
+<details markdown=block>
+<summary markdown=span>A *Summary*</summary>
+These are the **details** for this item.
+</details>
+
 Amiga 1000
 
 atari st 1020

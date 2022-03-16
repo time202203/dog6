@@ -28,10 +28,7 @@ This is an H2
   test line1
   </details>
   
-Test4
-{% details Read more about that **thing**... %}
-  That **thing** is...
-{% enddetails %}
+
 
 Test5
 <details markdown=block>

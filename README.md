@@ -2,7 +2,7 @@
 bannanas
 cheesse
 
-Version TAG 9
+Version TAG 10
 
 Amiga 1000
 
@@ -41,6 +41,15 @@ hello there
   </blockquote>
 </details>
 
+<details><summary>Test1</summary>
+  <h1 id="header">Header</h1>
+
+  <p>Para<em>graph</em>withi 0</p>
+
+  <blockquote>witin 1
+    <p>quote witin 2</p>
+  </blockquote>
+</details>
 
 <details><summary>Collapsed Block1</summary>
     

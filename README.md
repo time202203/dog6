@@ -2,7 +2,7 @@
 bannanas
 cheesse
 
-Version TAG 6
+Version TAG 7
 
 Amiga 1000
 
@@ -31,15 +31,15 @@ hello there
   
   </details>
   
-<detailsl><summery>TestME</summery>
+<details>
   <h1 id="header">Header</h1>
 
-  <p>Para<em>graph</em></p>
+  <p>Para<em>graph</em>withi 0</p>
 
-  <blockquote>abc
-    <p>quote</p>
+  <blockquote>witin 1
+    <p>quote witin 2</p>
   </blockquote>
-</detailsl>
+</details>
 
 ## Commands
 `bash

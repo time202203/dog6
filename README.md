@@ -4,6 +4,21 @@ cheesse
 
 Version TAG 15
 
+## Installation
+
+First you will need to have the dependencies installed on your system:
+
+- curl >=7.74.0
+- jq >=1.6
+- sed >=4.7
+- bash >=5.1.4
+
+Some software may work using versions that is early release as described
+
+```bash
+git clone https://github.com/timetoexpire/cloudflare-ddns-updater.git
+```
+
 Test1
 <details>computer
   test line1

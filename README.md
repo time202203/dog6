@@ -13,7 +13,7 @@ First you will need to have the dependencies installed on your system:
 - sed >=4.7
 - bash >=5.1.4
 
-Some software may work using versions that is early release as described
+> Some software may work using versions that is early release as described
 
 ```bash
 git clone https://github.com/timetoexpire/cloudflare-ddns-updater.git

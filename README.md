@@ -14,6 +14,7 @@ First you will need to have the dependencies installed on your system:
 - bash >=5.1.4
 
 > Some software may work using versions that is early release as described
+> Some people like chesse
 
 ```bash
 git clone https://github.com/timetoexpire/cloudflare-ddns-updater.git
